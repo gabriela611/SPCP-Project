@@ -213,7 +213,7 @@ Example system performance metrics:
 ### People
 
 | Nombre | Rol en el proyecto |
-|---|---|---|---|
+|---|---|
 | Gabriela Sanabria | Equipo desarrollador |
 | Leidy | Equipo desarrollador |
 | Santiago Sabogal | Equipo desarrollador |
@@ -229,7 +229,7 @@ Example system performance metrics:
 
 **Roles del equipo de proyecto:**
 - **Líder de proyecto / Project Manager:** Coordina cronograma, entregables y comunicación con el cliente.
-- **Desarrollador Frontend:** Construye la interfaz del portal (React/Vue).
+- **Desarrollador Frontend:** Construye la interfaz del portal.
 - **Desarrollador Backend:** Implementa la lógica de anuncios, eventos y control de acceso por rol.
 - **QA / Pruebas:** Verifica funcionalidad y reporta errores antes de cada entrega.
 
