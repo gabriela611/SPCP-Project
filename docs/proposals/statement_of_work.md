@@ -38,76 +38,31 @@ Contents:
 
 ### Title
 
-The official title of the project.
+SPCP
 
 
 ### Abstract
 
-Summarize the work, ideally in one paragraph.
-
-Include the most-relevant information about the project, objectives, issues,
-etc.
-
-Example: This Statement of Work (SOW) outlines the objectives, scope,
-deliverables, and timelines for the development and implementation of a new
-customer relationship management (CRM) system for XYZ Corporation. The project
-aims to enhance client interactions, streamline internal processes, and improve
-overall business operations through a customized CRM solution. The vendor will
-be responsible for the full lifecycle of the project, including system design,
-integration, data migration, user training, and post-implementation support. The
-timeline for completion is 12 months, with key milestones and deliverables
-identified at each phase. The total budget for the project is $500,000, with
-payment schedules linked to the completion of specific deliverables. This SOW
-ensures clear expectations, accountability, and performance standards throughout
-the duration of the project.
+Este alcance de trabajo (SOW) define los objetivos y alcance para el desarrollo e implementación de un portal web centralizado de comunicación para Bright Future Academy, diseñado para resolver la pérdida de información crítica y reducir las consultas repetitivas hacia los docentes provocadas por el uso de canales informales. El proyecto tiene como propósito optimizar la difusión institucional mediante la integración de tres componentes clave: un módulo de publicación de anuncios filtrado por roles, una agenda de eventos centralizada con alertas automáticas por correo electrónico y un panel de seguimiento de mensajes con estados de lectura (Enviado / Leído) y control de permisos. La solución permitirá a administradores, docentes y padres acceder de manera organizada e idónea a los anuncios, fechas clave e historial de comunicaciones de la institución, estableciendo un flujo de información eficiente, transparente y con trazabilidad clara para toda la comunidad educativa.
 
 
 ### Value
 
-Summarize the estimated value of the work, ideally in one paragraph.
-
-Include the most-relevant information about costs, including costs of products,
-services, materials, etc.
-
-If you prefer to provide more information about the value, then add an appendix
-section "Value".
-
-Example: The estimated value of the work outlined in this Statement of Work
-(SOW) is $500,000, covering the full scope of the CRM system development and
-implementation. This cost includes the design, customization, and integration of
-the software, along with data migration, user training, and post-implementation
-support. Additionally, the budget accounts for hardware and software licensing
-fees, professional services for system configuration, and ongoing maintenance
-for the first year. Payments will be made in installments upon the completion of
-key milestones, ensuring alignment with project progress and deliverables. Any
-potential changes or additional requirements will be assessed and billed
-separately, subject to agreement by both parties.
+El valor estimado del proyecto es de $15.000.000 COP, el cual cubre el desarrollo integral del Portal de Comunicación para Padres de Familia. Este valor incluye el levantamiento y análisis de requisitos, el diseño de la interfaz de usuario, el desarrollo del frontend y backend, la implementación de la base de datos, las pruebas funcionales y de integración, el despliegue en el entorno de producción, la documentación técnica y de usuario, la capacitación básica para los administradores del sistema y tres meses de mantenimiento correctivo posteriores a la entrega. No se incluyen dentro de este valor los costos asociados a infraestructura en la nube, servicios de terceros (como correo electrónico, SMS o notificaciones push), dominio, hosting, certificados de seguridad ni el desarrollo de nuevas funcionalidades posteriores a la entrega del proyecto, los cuales requerirán una cotización independiente.
 
 
 ### Scope
 
-Summarize the range of the work, extent of the work, and parameters of the work,
-ideally in one paragraph.
+El alcance de este proyecto abarca el desarrollo e implementación de un sistema centralizado de comunicación y programación de eventos, diseñado para optimizar la difusión de anuncios, la gestión de agendas y el seguimiento de mensajería.
 
-Include the most-relevant information about any requirements, such as people,
-processes, tools, etc.
+*Módulo de Publicación de Anuncios*
+Sistema de administración de anuncios que permite la creación y edición de contenidos, integrando un mecanismo de filtrado y visualización segmentado estrictamente según el rol y los permisos del usuario conectado.
 
-If you prefer to provide more information about the value, then add an appendix
-section "Scope".
+*Módulo de Calendario y Notificaciones*
+Agenda de eventos centralizada para la programación de fechas clave, vinculada a un motor de alertas automáticas que gestiona y distribuye notificaciones directamente vía correo electrónico.
 
-Example: The scope of this project includes the end-to-end development,
-customization, and deployment of a CRM system for XYZ Corporation, designed to
-improve client management and streamline internal workflows. The work involves
-detailed system design and configuration, data migration from legacy systems,
-integration with existing software platforms, and user training for
-approximately 100 employees across multiple departments. The project will
-require collaboration between the vendor’s development team, XYZ Corporation’s
-IT department, and key business stakeholders. Tools used will include CRM
-software, data migration tools, and training platforms. Additionally, the vendor
-will provide post-launch support for a period of six months to address any
-system issues or updates. The work will be completed in a phased approach, with
-specific deliverables outlined at each stage to ensure project milestones are
-met on time.
+*Módulo de Visibilidad y Control de Mensajes*
+Panel de monitoreo que refleja el estado en tiempo real de la mensajería (identificando si un mensaje figura como Enviado o Leído), respaldado por un esquema de control de permisos que regula qué usuarios pueden acceder a dicha información.
 
 
 ### Payment
