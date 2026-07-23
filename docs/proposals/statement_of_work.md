@@ -55,37 +55,19 @@ El valor estimado del proyecto es de $15.000.000 COP, el cual cubre el desarroll
 
 El alcance de este proyecto abarca el desarrollo e implementación de un sistema centralizado de comunicación y programación de eventos, diseñado para optimizar la difusión de anuncios, la gestión de agendas y el seguimiento de mensajería.
 
-*Módulo de Publicación de Anuncios*
+*Módulo de Publicación de Anuncios*  
 Sistema de administración de anuncios que permite la creación y edición de contenidos, integrando un mecanismo de filtrado y visualización segmentado estrictamente según el rol y los permisos del usuario conectado.
 
-*Módulo de Calendario y Notificaciones*
+*Módulo de Calendario y Notificaciones*  
 Agenda de eventos centralizada para la programación de fechas clave, vinculada a un motor de alertas automáticas que gestiona y distribuye notificaciones directamente vía correo electrónico.
 
-*Módulo de Visibilidad y Control de Mensajes*
+*Módulo de Visibilidad y Control de Mensajes*  
 Panel de monitoreo que refleja el estado en tiempo real de la mensajería (identificando si un mensaje figura como Enviado o Leído), respaldado por un esquema de control de permisos que regula qué usuarios pueden acceder a dicha información.
 
 
 ### Payment
 
-Summarize the payment for the work, in one paragraph.
-
-Include the most-relevant budget requirements, payment schedule, transfer
-methods, etc.
-
-If you prefer to provide more information about the payment, then add an
-appendix section "Payment".
-
-Example: The total budget for this project is $500,000, with payments structured
-across five key milestones. An initial payment of 20% ($100,000) will be due
-upon signing the contract to initiate the project. Subsequent payments will be
-made as follows: 30% ($150,000) upon completion of system design and approval,
-20% ($100,000) upon successful integration and data migration, 20% ($100,000)
-after user training and system testing, and the final 10% ($50,000) upon project
-completion and post-launch support handover. Payments will be made via bank
-transfer within 15 days of invoice submission, and invoices will be issued upon
-the successful completion of each milestone. Any changes to the project scope or
-timeline will be subject to additional billing, with prior written approval from
-XYZ Corporation.
+El presupuesto total para el desarrollo del Portal de Comunicación para Padres de Familia es de $15.000.000 COP. El pago se realizará por hitos del proyecto para garantizar que cada fase sea completada y aprobada antes de efectuar el siguiente desembolso. Se solicitará un anticipo del 25 % al momento de la firma del contrato para dar inicio al proyecto. Un segundo pago del 30 % se realizará tras la aprobación del diseño del sistema y del prototipo. Posteriormente, se efectuará un tercer pago del 30 % una vez finalizadas las etapas de desarrollo y pruebas. El 15 % restante se cancelará después del despliegue del sistema en producción, su aceptación por parte del cliente y el inicio del período de mantenimiento correctivo. Los pagos se realizarán mediante transferencia bancaria dentro de los 15 días siguientes a la emisión de la factura. Cualquier cambio en el alcance inicialmente acordado será cotizado y facturado por separado, previa aprobación del cliente.
 
 
 ## Purpose
