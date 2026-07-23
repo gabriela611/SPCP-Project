@@ -67,76 +67,34 @@ El presupuesto total para el desarrollo del Portal de Comunicación para Padres 
 
 ## Purpose
 
+El propósito de este proyecto es diseñar, desarrollar e implementar el **Portal de Comunicación para Padres de Familia (SPCP)** para Bright Future Academy. El sistema busca eliminar la dispersión de información provocada por canales informales, centralizando los comunicados institucionales, la agenda escolar y el seguimiento de mensajería en una sola plataforma segura, organizada y accesible según el rol de cada usuario.
+
+Al finalizar el contrato, el proyecto habrá entregado una plataforma funcional con módulos de publicación filtrada de anuncios, calendario de eventos con notificaciones por correo y un panel de seguimiento con confirmaciones de lectura. La implementación exitosa mejorará la alineación institucional, reducirá las consultas repetitivas hacia el personal docente y asegurará una comunicación transparente con toda la comunidad educativa.
 
 ### Objectives
 
-Describe the objectives of the work: what is to be achieved and delivered by the
-completion of the contract.
+El objetivo principal es entregar una solución integral que transforme la gestión de la comunicación escolar. Los entregables y metas clave al término del contrato incluyen:
 
-We recommend [Objectives and Key Results
-(OKRs)](http://github.com/joelparkerhenderson/objectives-and-key-results/).
-
-Identify the most relevant goals, outcomes, and intended uses of the completed
-work.
-
-Example: The primary objective of this project is to design, develop, and
-implement a customized customer relationship management (CRM) system for XYZ
-Corporation, aimed at enhancing customer interactions, improving data
-management, and streamlining internal workflows. By the completion of the
-contract, the following key deliverables will be achieved: a fully integrated
-CRM platform, migration of existing client data into the new system,
-comprehensive user training for employees, and a seamless transition to ongoing
-system support. The CRM system will be configured to meet the specific needs of
-various departments, including sales, marketing, and customer service, enabling
-improved collaboration, more efficient data access, and enhanced reporting
-capabilities. The successful completion of this project will result in increased
-operational efficiency, better customer insights, and a more cohesive customer
-experience across the organization.
-
+* **Módulo de Publicación de Anuncios:** Implementar un motor de creación, edición y filtrado segmentado que asegure que administradores y docentes publiquen avisos dirigidos únicamente a los roles o cursos correspondientes.
+* **Módulo de Calendario y Notificaciones:** Desarrollar una agenda escolar centralizada integrada con un servicio de alertas automáticas vía correo electrónico para recordar eventos clave y fechas importantes.
+* **Panel de Visibilidad y Control de Mensajes:** Desplegar una interfaz de monitoreo en tiempo real del estado de entrega y lectura (*Enviado* / *Leído*), garantizando la trazabilidad y recepción de la información bajo un esquema estricto de permisos.
+* **Adopción y Capacitación:** Proveer la documentación técnica y de usuario necesaria, junto con la capacitación para los administradores del colegio, garantizando una transición fluida al nuevo portal.
 
 ### Performance
 
-Describe the performance of the work: how the work is measured, what performance
-indicators are relevant, and what measurements and metrics are relevant.
+El rendimiento y el éxito de la implementación se medirán a través de una combinación de indicadores operativos y técnicos:
 
-We recommend [Key Performance Indicators
-(KPIs)](http://github.com/joelparkerhenderson/key-performance-indicator/).
+**Métricas de Rendimiento Operativo (Negocio):**
 
-Identify the most-relevant performance measurements and metrics, for the
-business aspects (e.g. net revenue, customer satisfaction) and for the technical
-aspects (e.g. average daily users, percent uptime).
+* **Reducción de Consultas Repetitivas:** Reducir en al menos un **40 %** las consultas informales directas a los docentes sobre eventos y anuncios durante el primer trimestre de uso.
+* **Confirmación de Lectura:** Lograr que más del **85 %** de las comunicaciones críticas institucionales registren estado de *Leído* por parte de los padres de familia dentro de las primeras 48 horas tras su publicación.
+* **Adopción de la Plataforma:** Alcanzar un **90 %** de usuarios activos (padres y docentes) dentro de los primeros 30 días posteriores al lanzamiento formal.
 
-Example: The performance of this project will be measured through a combination
-of business and technical indicators to ensure that the CRM system meets both
-functional requirements and organizational goals. Performance will be monitored
-through regular status meetings, user feedback, and system reports. Adjustments
-and optimizations will be made as needed to meet or exceed these agreed-upon
-metrics.
+**Métricas de Rendimiento Técnico:**
 
-Example business performance metrics:
-
-* Customer Satisfaction: A customer satisfaction score of 85% or higher should
-  be achieved through internal surveys measuring satisfaction with the CRM’s
-  ease of use, functionality, and overall impact on service delivery.
-
-* Net Revenue Impact: The CRM system should contribute to a 15% increase in lead
-  conversion rates and a 10% increase in customer retention within the first
-  year, as a result of more personalized customer management and streamlined
-  processes.
-
-Example system performance metrics:
-
-* Uptime: The CRM system must maintain at least 99.9% uptime during operation to
-  ensure business continuity.
-
-* Response Time: System response time should be less than 3 seconds for all user
-  actions, other than batch data processing, ensuring smooth user interactions.
-
-* Data Accuracy: Migration of existing customer data must achieve at least 98%
-  accuracy with no data loss.
-
-* User Adoption: At least 90% of end-users should be actively using the CRM
-  within 30 days post-implementation.
+* **Disponibilidad del Sistema (Uptime):** Garantizar una disponibilidad del portal de al menos **99.5 %** durante el periodo de operación escolar.
+* **Tiempos de Respuesta:** Mantener tiempos de carga e interacción en la interfaz inferiores a **2.5 segundos** para la visualización de anuncios y eventos.
+* **Efectividad de Notificaciones:** Lograr una tasa de entrega exitosa del **98 %** en el envío de alertas automáticas por correo electrónico.
 
 
 ## Who does what
