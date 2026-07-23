@@ -212,45 +212,41 @@ Example system performance metrics:
 
 ### People
 
-Identify all the people who are involved a.k.a. the participants a.k.a. the
-stakeholders.
-
-Include employees, contractors, consultants, partners, vendors, customers,
-auditors, investors, advisors, etc., and provide relevant contact information,
-such as phone numbers, email addresses, messaging usernames, web links,
-availability hours, etc.
-
-We suggest creating a document named "people" that contains this information,
-then continuously improving it.
-
+| Nombre | Rol en el proyecto |
+|---|---|---|---|
+| Gabriela Sanabria | Equipo desarrollador |
+| Leidy | Equipo desarrollador |
+| Santiago Sabogal | Equipo desarrollador |
+| Santiago Manco | Equipo desarrollador |
+| Contacto Bright Future Academy | Cliente / Patrocinador |
 
 ### Roles
 
-Identify the roles that are involved.
+**Roles del sistema (usuarios finales del portal, según el RFP):**
+- **Administrador:** Gestiona anuncios institucionales, configura roles y supervisa el uso general del portal.
+- **Docente:** Publica anuncios de su curso, gestiona eventos/recordatorios y consulta el estado de lectura de sus mensajes.
+- **Padre de familia:** Recibe anuncios y eventos filtrados por el curso de su hijo, y confirma la lectura de los mensajes.
 
-Include employee roles, contractor roles, consultant roles, partner roles,
-vendor roles, customer roles, auditor roles, investor roles, advisor roles,
-etc., and provide relevant role information, such as what the role does, its
-capabilities and limits, etc.
+**Roles del equipo de proyecto:**
+- **Líder de proyecto / Project Manager:** Coordina cronograma, entregables y comunicación con el cliente.
+- **Desarrollador Frontend:** Construye la interfaz del portal (React/Vue).
+- **Desarrollador Backend:** Implementa la lógica de anuncios, eventos y control de acceso por rol.
+- **QA / Pruebas:** Verifica funcionalidad y reporta errores antes de cada entrega.
 
-We suggest creating a document named "roles" that contains this information,
-then continuously improving it.
+### Responsabilities
 
+R = Responsable | A = Aprueba (Accountable) | C = Consultado | I = Informado | O = Omitido
 
-### Responsibilities
-
-Identify the responsibilities that are involved.
-
-We recommend using a responsibility assignment matrix (RAM) a.k.a. linear
-responsibility chart (LRC).
-
-We suggest creating a document named "responsibilities" that contains this
-information, then continuously improving it. We use a RAM called a RACIO matrix.
-The matrix columns are roles. The matrix rows are areas of responsibility, such
-as task groupings. The matrix cells are role-task assignments. A matrix cell
-indicates the role-responsibility assignment as one of Responsible, Accountable,
-Consultable, Informable, Omittable. A matrix cell may also provide any
-assignment notes and details.
+| Área de responsabilidad | Administrador (Colegio) | Líder de Proyecto | Frontend | Backend | QA |
+|---|---|---|---|---|---|
+| Definición de requisitos (análisis RFP) | C | R | I | I | O |
+| Diseño de la propuesta técnica | I | A | C | C | O |
+| Desarrollo del módulo de anuncios | I | A | R | R | C |
+| Calendario de eventos | I | A | R | R | C |
+| Panel de estados de lectura | I | A | C | R | C |
+| Pruebas y control de calidad | I | A | C | C | R |
+| Despliegue en nube | I | A | O | R | C |
+| Entrega y validación final (v1.0) | A | R | I | I | I |
 
 
 ## Context
