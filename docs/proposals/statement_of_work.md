@@ -1,10 +1,5 @@
 # Statement Of Work
 
-A Statement of Work (SOW) is a narrative description of the required work. It
-stipulates the deliverables or services required to fulfill the contract, and it
-defines the task to be accomplished or services to be delivered in clear,
-concise and meaningful terms. Examples are by ChatGPT.
-
 Contents:
 
 - [Introduction](#introduction)
