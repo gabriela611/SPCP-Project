@@ -1,3 +1,8 @@
+---
+name: RFP Template
+about: Plantilla para requerimientos de propuesta
+---
+
 ## Descripción
 ¿Qué necesita el cliente? (en lenguaje del RFP)
 
